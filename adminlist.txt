@@ -5,3 +5,5 @@ TroYanH:434772589:dev
 FLERNI:781948556:dev
 dealwithmalinov:615081290:dev
 Exception:437023264:dev
+
+Otmorozok_:228681953:curator
