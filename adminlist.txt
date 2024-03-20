@@ -8,6 +8,5 @@ Exception:437023264:dev
 l_clever_l:431518215:dev
 
 Otmorozok_:228681953:curator
-Polino4ka_grifer:431155984:curator
 LuisSSS:511955948:curator
 keellaatt:447635287:curator
